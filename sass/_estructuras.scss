@@ -41,8 +41,9 @@
 }
 .breadcrumb {
     padding-top: 95px;
-    background-color: white!important;
+    width: 400px;
+    background-color: #e6d3d1cb;
     a {
-        color:$color-button-card;
+        color:$color-nav;
     }
 }
